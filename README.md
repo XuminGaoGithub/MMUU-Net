@@ -32,8 +32,8 @@ Place '*train*', '*valid*' and '*test*' data folders in the '*dataset*' folder.
 ### Predict
 - Run `python test.py` to predict on the MMUU_NET.
 
-### Download trained MMUU-NET
-- [百度网盘]:
+### Download trained MMUU-NET [百度网盘]:
+
 链接(Link)：https://pan.baidu.com/s/1G8WhL5NEbaj-gyQOojgEoA 
 提取码(Password)：iat0 
 
