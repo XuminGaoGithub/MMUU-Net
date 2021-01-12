@@ -37,3 +37,10 @@ Place '*train*', '*valid*' and '*test*' data folders in the '*dataset*' folder.
 链接(Link)：https://pan.baidu.com/s/1G8WhL5NEbaj-gyQOojgEoA 
 提取码(Password)：iat0 
 
+
+#Abstract
+
+The MMUU-Net, which is a robust and effective network for satellite imagery segmentation. The encoder in the U-Net was replaced by ResNeSt, which can greatly improve classification accuracy. An ASPP layer was added in the middle. A multi-scale feature fusion module was designed in the decoder and a corresponding robust loss function was designed to improve multi- scale information fusion. Finally, in order to eliminate the adhesion phenomenon of preliminary segmentationa，a two-stage segmentation strategy including the coarse segmentation and the refined segmentation was proposed. The MIoU of MMUU-Net was improved by 10.91% compared with that of U-Net.
+
+
+
