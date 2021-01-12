@@ -1,12 +1,16 @@
 #MMUU-NET(MMUU-Net：A Robust and Effective Network for Farmland Segmentation of Satellite Imagery):
 
-Authur：Xumin Gao 
-Company: Beijing Mcfly Technology Co. Ltd
+Authur：Xumin Gao (Beijing Mcfly Technology Co. Ltd)
+
 E-mail: comin15071460998@gmail.com
 
-Paper: X. Gao, L. Liu, H. Gong. MMUU-Net: A Robust and Effective Network for Farmland Segmentation of Satellite Imagery[J]. Journal of Physics: Conference Series, 2020, 1651(1):012189 (7pp).
+Paper: 
+
+X. Gao, L. Liu, H. Gong. MMUU-Net: A Robust and Effective Network for Farmland Segmentation of Satellite Imagery[J]. Journal of Physics: Conference Series, 2020, 1651(1):012189 (7pp).
+
 
 Demo video:
+
 1)https://www.bilibili.com/video/BV1Ma4y1W72W
 2)https://www.bilibili.com/video/BV1fi4y1M7vU/
 
@@ -31,6 +35,11 @@ Place '*train*', '*valid*' and '*test*' data folders in the '*dataset*' folder.
 
 ### Predict
 - Run `python test.py` to predict on the MMUU_NET.
+
+### MMUU_Net
+
+MMUU-Net/networks/MMUU_Net.py
+
 
 ### Download trained MMUU-NET [百度网盘]:
 
