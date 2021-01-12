@@ -20,7 +20,7 @@ X. Gao, L. Liu, H. Gong. MMUU-Net: A Robust and Effective Network for Farmland S
 - Cuda 10.1
 - Python 3.7
 - Pytorch 1.3.0
-- cv2 4.1.1
+- Opencv 4.1.1
 - scipy 1.2.1
 - imageio 2.3.0
 - visdom 0.1.8.9
