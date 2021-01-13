@@ -67,7 +67,7 @@ The MMUU-Net, which is a robust and effective network for satellite imagery segm
 
 ![Image text](https://github.com/XuminGaoGithub/MMUU-Net/blob/main/3.png)
 
-4.Online demo
+4.On the basis of farmland segmentation, we use clustering algorithm for crop classification
 
 ![Image text](https://github.com/XuminGaoGithub/MMUU-Net/blob/main/4.png)
 
