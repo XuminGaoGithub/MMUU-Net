@@ -52,5 +52,22 @@ MMUU-Net/networks/MMUU_Net.py
 
 The MMUU-Net, which is a robust and effective network for satellite imagery segmentation. The encoder in the U-Net was replaced by ResNeSt, which can greatly improve classification accuracy. An ASPP layer was added in the middle. A multi-scale feature fusion module was designed in the decoder and a corresponding robust loss function was designed to improve multi- scale information fusion. Finally, in order to eliminate the adhesion phenomenon of preliminary segmentationa，a two-stage segmentation strategy including the coarse segmentation and the refined segmentation was proposed. The MIoU of MMUU-Net was improved by 10.91% compared with that of U-Net.
 
+1.MMUU-Net
 
+![Image text](https://github.com/XuminGaoGithub/MMUU-Net/blob/main/1.png)
+
+2.The comparison results of  different segmentation network
+
+![Image text](https://github.com/XuminGaoGithub/MMUU-Net/blob/main/2.png)
+ (a) Original image, (b) Ground truth, (c) U-Net, (d) D-LinkNet, (e) RCF, (f) MMUU-Net (The first stage), (g) MMUU-Net (The second stage)
+
+
+
+3.Farmland segmentation and area calculation using satellite imagery
+
+![Image text](https://github.com/XuminGaoGithub/MMUU-Net/blob/main/3.png)
+
+4.Online demo
+
+![Image text](https://github.com/XuminGaoGithub/MMUU-Net/blob/main/4.png)
 
