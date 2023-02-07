@@ -29,7 +29,6 @@ X. Gao, L. Liu, H. Gong. MMUU-Net: A Robust and Effective Network for Farmland S
 
 ### Data
 Place '*train*', '*valid*' and '*test*' data folders in the '*dataset*' folder.
-[Sorry, we can't publish the data set at present]
 
 ### Train
 - Run `python train.py` to train the MMUU_NET.
