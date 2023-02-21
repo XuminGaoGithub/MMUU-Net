@@ -1,12 +1,12 @@
 #MMUU-NET(MMUU-Net：A Robust and Effective Network for Farmland Segmentation of Satellite Imagery):
 
-#Authur：Xumin Gao, Long Liu, Huaze Gong,Hangyu Zhang (Beijing Mcfly Technology Co. Ltd)
+#Authur：Xumin Gao, et al (Beijing Mcfly Technology Co. Ltd)
 
 #E-mail: comin15071460998@gmail.com
 
 #Paper: 
 
-X. Gao, L. Liu, H. Gong. MMUU-Net: A Robust and Effective Network for Farmland Segmentation of Satellite Imagery[J]. Journal of Physics: Conference Series, 2020, 1651(1):012189 (7pp).
+Xumin Gao, et al. MMUU-Net: A Robust and Effective Network for Farmland Segmentation of Satellite Imagery[J]. Journal of Physics: Conference Series, 2020, 1651(1):012189 (7pp).
 
 
 #Demo video:
