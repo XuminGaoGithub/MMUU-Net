@@ -1,7 +1,7 @@
 # MMUU-NET(MMUU-Net：A Robust and Effective Network for Farmland Segmentation of Satellite Imagery)
 
 # Paper 
-Xumin Gao, et al. MMUU-Net: A Robust and Effective Network for Farmland Segmentation of Satellite Imagery[J]. Journal of Physics: Conference Series, 2020, 1651(1):012189 (7pp).
+Gao, X., Liu, L. and Gong, H., 2020, November. MMUU-Net: A robust and effective network for farmland segmentation of satellite imagery. In Journal of physics: conference series (Vol. 1651, No. 1, p. 012189). IOP Publishing.
 
 
 
